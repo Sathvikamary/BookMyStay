@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7df0f566-afa4-4588-b946-9c17b51fc58f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/App/src/UseCase6RoomAllocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/UseCase7AddOnServiceSelection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/src/UseCase7AddOnServiceSelection.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/UseCase8BillingAndPayment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/UC6-ReservationConfirmation",
+    "git-widget-placeholder": "feature/UC7-AddOnService",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
