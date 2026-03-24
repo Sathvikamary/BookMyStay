@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7df0f566-afa4-4588-b946-9c17b51fc58f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/App/src/UseCase3InventorySetup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/src/UseCase2HotelBookingApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/src/UseCase3Inventory.java" beforeDir="false" />
-    </list>
+    <list default="true" id="7df0f566-afa4-4588-b946-9c17b51fc58f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/UC3-InvetorySetup",
+    "git-widget-placeholder": "feature/UC4-RoomSearch",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
